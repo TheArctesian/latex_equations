@@ -11,4 +11,4 @@ sudo apt install texlive-full
 > If your not **linux** then what are you doing with your life?
 
 
-btw can i just say when the (docs)[https://www.tug.org/texlive/] for this are just pure HTML it excites me 
+btw can i just say when the [docs](https://www.tug.org/texlive/) for this are just pure HTML it excites me 
